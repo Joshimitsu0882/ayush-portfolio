@@ -19,7 +19,12 @@ export default function CTA() {
                     >
                         View Resume (PDF)
                     </Button>
-                    <Button variant="secondary" href="mailto:joshiayush000@gmail.com">Email Me</Button>
+                    <Button
+                        variant="secondary"
+                        href="mailto:joshiayush000@gmail.com"
+                    >
+                        Email Me
+                    </Button>
                     <Button
                         variant="secondary"
                         href="https://www.linkedin.com/in/ayush-j-6b4894162/"
