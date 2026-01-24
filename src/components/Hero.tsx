@@ -21,7 +21,7 @@ export default function Hero() {
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    Download Resume
+                    View Resume (PDF)
                 </Button>
             </div>
         </section>

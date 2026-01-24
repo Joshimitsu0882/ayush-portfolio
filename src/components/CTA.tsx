@@ -17,7 +17,7 @@ export default function CTA() {
                         target="_blank"
                         rel="noopener noreferrer"
                     >
-                        Download Resume
+                        View Resume (PDF)
                     </Button>
                     <Button variant="secondary" href="mailto:joshiayush000@gmail.com">Email Me</Button>
                     <Button
@@ -30,7 +30,7 @@ export default function CTA() {
                     </Button>
                 </div>
                 <p className="mt-16 text-sm text-gray-400">
-                    © {new Date().getFullYear()} Ayush Joshi. All rights reserved.
+                    © Ayush Joshi · Built with Next.js · Deployed on Vercel
                 </p>
             </div>
         </section>
