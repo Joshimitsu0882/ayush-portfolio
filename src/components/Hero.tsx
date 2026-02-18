@@ -17,7 +17,7 @@ export default function Hero() {
                 <Button variant="primary" href="#work">View Work</Button>
                 <Button
                     variant="secondary"
-                    href="https://drive.google.com/file/d/111zmjtLPMokkhNyDcfACrL2YQDo4_d5Z/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1D14Bc2BhItqpayCJvIWRpRmJG5Hv5OR2/view?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
